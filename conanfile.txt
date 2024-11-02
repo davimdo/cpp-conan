@@ -1,0 +1,13 @@
+[requires]
+ffmpeg/7.0.1
+aws-sdk-cpp/1.11.352
+protobuf/5.27.0
+
+[generators]
+CMakeDeps
+CMakeToolchain
+
+[layout]
+cmake_layout
+
+[options]

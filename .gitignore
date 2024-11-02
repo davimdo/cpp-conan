@@ -1,0 +1,8 @@
+build/
+
+# IDEs
+.cache/
+.vscode/
+
+# Conan
+CMakeUserPresets.json
